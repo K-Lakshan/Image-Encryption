@@ -1,0 +1,3 @@
+# SecureImage Cryptography Suite Dependencies
+PyQt5==5.15.9           # For the graphical user interface
+pycryptodome==3.18.0    # For AES encryption/decryption
