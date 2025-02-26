@@ -1,7 +1,3 @@
-Here’s a detailed **About** section that you can include in your `README.md` file to describe the application, its features, and how to use it:
-
----
-
 # SecureImage Cryptography Suite
 
 **SecureImage Cryptography Suite** is a secure and user-friendly desktop application designed to encrypt and decrypt image files using the AES (Advanced Encryption Standard) algorithm. It provides military-grade encryption to protect your sensitive images and supports batch processing for multiple files at once. The application is built with PyQt5 for the graphical user interface and uses the `pycryptodome` library for cryptographic operations.
